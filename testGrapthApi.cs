@@ -13,7 +13,7 @@ async void testReadGraphAPI()
 
         GraphServiceClient graphClient = new GraphServiceClient(csc, scopes);
 
-        var user = await graphClient.Users[sMailbox].Request().GetAsync();
+        var user = await graphClient.Users[[MY_MAILBOX]].Request().GetAsync();
 
         return;
 	  }
