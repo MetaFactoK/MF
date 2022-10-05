@@ -1,0 +1,311 @@
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\TestExchange-UpToDate-NotWorking.exe.config
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\TestExchange-UpToDate-NotWorking.exe
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\TestExchange-UpToDate-NotWorking.pdb
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\netstandard.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.AppContext.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Collections.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Collections.Specialized.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.ComponentModel.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Console.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Data.Common.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Globalization.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.Compression.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.FileSystem.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.Pipes.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Linq.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Linq.Expressions.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Linq.Parallel.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Linq.Queryable.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Http.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.NameResolution.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Ping.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Primitives.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Requests.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Security.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Sockets.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.WebSockets.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.ObjectModel.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Reflection.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Resources.Reader.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Resources.Writer.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Handles.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Claims.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Principal.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.SecureString.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.Encoding.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Tasks.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Thread.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Timer.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Xml.XDocument.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Xml.XPath.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Azure.Core.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Azure.Identity.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Graph.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Buffers.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Memory.Data.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Memory.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.Json.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.ValueTuple.dll
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Azure.Core.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Azure.Identity.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Graph.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Buffers.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Memory.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Memory.Data.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.Json.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\bin\Debug\System.ValueTuple.xml
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\obj\Debug\TestExchange-UpToDate-NotWorking.exe.config
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\obj\Debug\TestExchange-UpToDate-NotWorking.csproj.CoreCompileInputs.cache
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\obj\Debug\TestExchange-UpToDate-NotWorking.csproj.CopyComplete
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\obj\Debug\TestExchange-UpToDate-NotWorking.exe
+C:\Users\kdevillier\Documents\test\Microsoft\TestExchange-UpToDate-NotWorking\obj\Debug\TestExchange-UpToDate-NotWorking.pdb
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\TestExchange-UpToDate-NotWorking.exe.config
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\TestExchange-UpToDate-NotWorking.exe
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\TestExchange-UpToDate-NotWorking.pdb
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\netstandard.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.AppContext.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Collections.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Collections.Specialized.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.ComponentModel.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Console.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Data.Common.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Globalization.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.Compression.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.FileSystem.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.Pipes.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Linq.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Linq.Expressions.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Linq.Parallel.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Linq.Queryable.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Http.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.NameResolution.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Ping.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Primitives.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Requests.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Security.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Sockets.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.WebSockets.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.ObjectModel.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Reflection.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Resources.Reader.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Resources.Writer.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Handles.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Claims.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Principal.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.SecureString.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.Encoding.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Tasks.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Thread.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Timer.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Xml.XDocument.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Xml.XPath.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Azure.Core.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Azure.Identity.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Graph.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Buffers.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Memory.Data.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Memory.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.Json.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.ValueTuple.dll
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Azure.Core.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Azure.Identity.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Graph.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Buffers.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Memory.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Memory.Data.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Text.Json.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\bin\Debug\System.ValueTuple.xml
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\obj\Debug\TestExchange-UpToDate-NotWorking.csproj.AssemblyReference.cache
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\obj\Debug\TestExchange-UpToDate-NotWorking.exe.config
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\obj\Debug\TestExchange-UpToDate-NotWorking.csproj.CoreCompileInputs.cache
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\obj\Debug\TestExchange-UpToDate-NotWorking.csproj.CopyComplete
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\obj\Debug\TestExchange-UpToDate-NotWorking.exe
+C:\Users\kdevillier\Documents\test\Nouveau dossier\TestExchange-UpToDate-NotWorking\obj\Debug\TestExchange-UpToDate-NotWorking.pdb

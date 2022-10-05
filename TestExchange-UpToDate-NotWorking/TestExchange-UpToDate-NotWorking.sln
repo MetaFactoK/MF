@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExchange-UpToDate-NotWorking", "TestExchange-UpToDate-NotWorking.csproj", "{AC387713-4524-49BE-AC84-AB151C55AB3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC387713-4524-49BE-AC84-AB151C55AB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC387713-4524-49BE-AC84-AB151C55AB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC387713-4524-49BE-AC84-AB151C55AB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC387713-4524-49BE-AC84-AB151C55AB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CC2A2A2-5C0C-4C91-9E5C-A95FC8B8E3C8}
+	EndGlobalSection
+EndGlobal
