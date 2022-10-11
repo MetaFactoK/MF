@@ -15,9 +15,9 @@ namespace TestExchange_OldVersion_Working
 		static string clientSecret = "[CLIENT_SECRET]";
 		static string sMailbox = "[MAIL]";
 
-		static void Main(string[] args)
+		static async Task Main(string[] args)
 		{
-			testInbox().Wait();
+			await testInbox();
 		}
 
 		static async Task test()
